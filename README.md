@@ -98,7 +98,7 @@ This project helps in understanding:
 
 ## Author
 
-**Your Name**
+Neha
 
 ## License
 
